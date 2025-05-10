@@ -4,5 +4,9 @@ body{
 } 
 
 h1{
-    color: aqua;
+    color: rgb(255, 98, 0);
+} 
+
+h2{
+    color:blue;
 }
